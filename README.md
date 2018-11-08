@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+# Tuorial 5.2
+https://guides.rubyonrails.org/getting_started.html
